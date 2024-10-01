@@ -1,4 +1,4 @@
-package questions;
+package function;
 
 import java.util.*;
 
