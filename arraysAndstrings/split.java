@@ -4,19 +4,27 @@ package arraysAndstrings;
 import java.util.*;
 
 public class split{
+       System.out.println("hii \"double\" ");
+
+
     public static void name(String s){
-        
-           int space = s.indexOf(" ");
-           for(int i =0; i<s.length();i++){
-            if(i==space){
-                continue;
+     
+        //  String g = s.replaceAll("\\s","");     \\ "\\sis for white space 
+            String g = s.replaceAll(" ","");
+           for(int i =0; i<g.length();i++){
+            // if(i==space){
+            //     continue;
+            // }
+            System.out.print(g.charAt(i));
+            if(i<g.length()-1){
+                System.out.print(",");      //, for all character except last
             }
-            System.out.print(s.charAt(i)+",");
             }
     }
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         String input = sc.nextLine();
         name(input);
+        sc.close();
     }
 }
