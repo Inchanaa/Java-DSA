@@ -11,7 +11,8 @@ public class compare{
         System.out.println(s==s2);                  //false 
         System.out.println(s.compareTo(s2));        //0
         System.out.println(s3==s);                  //true
-
+        System.out.println(s3.equals(s));           //true
+        System.out.println(s2.equals(s));           //true
 
         String s4 = "ab";
         String s5 ="ac";
