@@ -8,9 +8,21 @@ public class five{
             // if(i<=j){
             System.out.print("*");
         // }
+        // System.out.print(i+","+j);
         // else System.out.print(" ");
          }
       
       System.out.println();}
     }
 }
+
+/* 
+
+******
+*****
+****
+***
+**
+*
+
+*/
