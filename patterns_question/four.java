@@ -14,3 +14,12 @@ public class four{
       System.out.println();}
     }
 }
+
+/*
+*****
+ ****
+  ***
+   **
+    *
+    
+    */
