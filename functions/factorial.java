@@ -1,8 +1,10 @@
-package function;
+// factorial of a given number
+
+package functions;
 
 import java.util.*;
 
-public class fibonacci{
+public class factorial{
     
     public static void fibb(int n){
       int f = 1;
