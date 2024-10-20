@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ifloop",
+            "request": "launch",
+            "mainClass": "functions.Ifloop",
+            "projectName": "Java-DSA_ac9d2f69"
+        },
+        {
+            "type": "java",
+            "name": "split",
+            "request": "launch",
+            "mainClass": "arraysAndstrings.split",
+            "projectName": "Java-DSA_ac9d2f69"
+        },
+        {
+            "type": "java",
             "name": "hello",
             "request": "launch",
             "mainClass": "hello",
