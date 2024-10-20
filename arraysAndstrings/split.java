@@ -4,7 +4,8 @@ package arraysAndstrings;
 import java.util.*;
 
 public class split{
-       System.out.println("hii \"double\" ");
+    //    System.out.println("hii \"double\" ");
+    // System.out.println("");
 
 
     public static void name(String s){
