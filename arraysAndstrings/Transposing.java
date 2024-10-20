@@ -1,6 +1,6 @@
 // displan an array and search an element in the array and display its index
 
-package arrays;
+package arraysAndstrings;
 import java.util.Scanner;
 
 public class Transposing{
