@@ -1,8 +1,9 @@
 // pollymorphism-->method/ Function Overloading
-use package OOPS;
+package OOPS;
 
 class Area{
-    string 
+    String str;
+    
 }
 
 public class FunctionOverloading{
