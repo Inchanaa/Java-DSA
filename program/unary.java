@@ -9,7 +9,6 @@ public class unary {
         b = a++;
         System.out.println(a);              //11
         System.out.println(b);              //10
-
         //pre increment
         // ++a        -> step 1 --> use value    
          //      ->      step 2 --> change value 
