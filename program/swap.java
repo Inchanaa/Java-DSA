@@ -1,6 +1,5 @@
 // swap a 2 numbers
 
-package program;
 
 import java.util.Scanner;
 
@@ -23,5 +22,6 @@ public class swap{
         b = a - b;
         a = a - b;
         System.out.println("result2 "+a+","+b);                //again swaping the result from above swap
+        sc.close();
     }
 }
