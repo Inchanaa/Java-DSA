@@ -12,5 +12,6 @@ public class prime{
         System.out.println(i);
         }
         }
+        sc.close();
     }
 }
