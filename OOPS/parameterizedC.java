@@ -1,4 +1,4 @@
-//constructor which has parameter
+//constructor which has parameter -- parameterized constructor
 
 package OOPS;
 
