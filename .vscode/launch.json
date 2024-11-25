@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "unary",
+            "request": "launch",
+            "mainClass": "operator.unary",
+            "projectName": "Java-DSA_ac9d2f69"
+        },
+        {
+            "type": "java",
+            "name": "unaryex",
+            "request": "launch",
+            "mainClass": "operator.unaryex",
+            "projectName": "Java-DSA_ac9d2f69"
+        },
+        {
+            "type": "java",
             "name": "GetBit",
             "request": "launch",
             "mainClass": "operator.GetBit",
