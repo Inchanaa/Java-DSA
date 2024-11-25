@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GetBit",
+            "request": "launch",
+            "mainClass": "operator.GetBit",
+            "projectName": "Java-DSA_ac9d2f69"
+        },
+        {
+            "type": "java",
             "name": "unaryex",
             "request": "launch",
             "mainClass": "unaryex",
