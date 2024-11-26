@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClearBit",
+            "request": "launch",
+            "mainClass": "operator.ClearBit",
+            "projectName": "Java-DSA_ac9d2f69"
+        },
+        {
+            "type": "java",
             "name": "polymorphism",
             "request": "launch",
             "mainClass": "OOPS.polymorphism",
