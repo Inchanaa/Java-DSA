@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "polymorphism",
+            "request": "launch",
+            "mainClass": "OOPS.polymorphism",
+            "projectName": "Java-DSA_ac9d2f69"
+        },
+        {
+            "type": "java",
+            "name": "parameterizedC",
+            "request": "launch",
+            "mainClass": "OOPS.parameterizedC",
+            "projectName": "Java-DSA_ac9d2f69"
+        },
+        {
+            "type": "java",
             "name": "SetBit",
             "request": "launch",
             "mainClass": "operator.SetBit",
