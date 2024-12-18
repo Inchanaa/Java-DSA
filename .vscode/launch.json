@@ -5,6 +5,13 @@
             "name": "ParameterCons",
             "request": "launch",
             "mainClass": "OOPS.ParameterCons",
+            "projectName": "Java-DSA_adbf1a36"
+        },
+        {
+            "type": "java",
+            "name": "ParameterCons",
+            "request": "launch",
+            "mainClass": "OOPS.ParameterCons",
             "projectName": "Java-DSA_ac9d2f69"
         },
         {
