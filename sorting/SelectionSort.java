@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class SelectionSort {
     public static void selection(int[] arr){
         for (int i = 0; i < arr.length; i++) {
-            int selection = i;
+            int smalest = i;
             for (int j = i+1; j < arr.length; j++) {
-                if(arr[selection] > arr[j]){
-                    selection=j;
+                if(arr[smalest] > arr[j]){
+                    smalest=j;
                 }
             }
-            int temp = arr[selection];
-            arr[selection] = arr[i];
+            int temp = arr[smalest];
+            arr[smalest] = arr[i];
             arr[i] = temp;
         }
     }
