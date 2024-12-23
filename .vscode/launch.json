@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumNum",
+            "request": "launch",
+            "mainClass": "recursion.SumNum",
+            "projectName": "Java-DSA_ac9d2f69"
+        },
+        {
+            "type": "java",
             "name": "SumN",
             "request": "launch",
             "mainClass": "recursion.SumN",
