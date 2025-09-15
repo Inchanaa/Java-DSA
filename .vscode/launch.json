@@ -2,6 +2,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "three",
+      "request": "launch",
+      "mainClass": "patterns_question.three",
+      "projectName": "Java-DSA_5b49cc"
+    },
+    {
+      "type": "java",
+      "name": "Square",
+      "request": "launch",
+      "mainClass": "patterns_question.Square",
+      "projectName": "Java-DSA_5b49cc"
+    },
+    {
+      "type": "java",
+      "name": "second",
+      "request": "launch",
+      "mainClass": "patterns_question.second",
+      "projectName": "Java-DSA_5b49cc"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "patterns_question.prime",
+      "projectName": "Java-DSA_5b49cc"
+    },
+    {
+      "type": "java",
+      "name": "four",
+      "request": "launch",
+      "mainClass": "patterns_question.four",
+      "projectName": "Java-DSA_5b49cc"
+    },
+    {
+      "type": "java",
+      "name": "five",
+      "request": "launch",
+      "mainClass": "patterns_question.five",
+      "projectName": "Java-DSA_5b49cc"
+    },
+    {
+      "type": "java",
       "name": "Concatination",
       "request": "launch",
       "mainClass": "Concatination",
