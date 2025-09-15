@@ -8,5 +8,6 @@ public class Concatination {
         System.out.println(" " + i + j + k);
         System.out.println(i + j + " " + k);
         System.out.println(i + " " + j + k);
+
     }
 }
