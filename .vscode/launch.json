@@ -1,158 +1,165 @@
 {
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Factorial",
-            "request": "launch",
-            "mainClass": "recursion.Factorial",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "SumNum",
-            "request": "launch",
-            "mainClass": "recursion.SumNum",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "SumN",
-            "request": "launch",
-            "mainClass": "recursion.SumN",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "Number",
-            "request": "launch",
-            "mainClass": "recursion.Number",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "InsertionSort",
-            "request": "launch",
-            "mainClass": "InsertionSort",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "SelectionSort",
-            "request": "launch",
-            "mainClass": "SelectionSort",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "BubbleSort",
-            "request": "launch",
-            "mainClass": "Sorting.BubbleSort",
-            "projectName": ""
-        },
-        {
-            "type": "java",
-            "name": "ParameterCons",
-            "request": "launch",
-            "mainClass": "OOPS.ParameterCons",
-            "projectName": "Java-DSA_adbf1a36"
-        },
-        {
-            "type": "java",
-            "name": "ParameterCons",
-            "request": "launch",
-            "mainClass": "OOPS.ParameterCons",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "ClearBit",
-            "request": "launch",
-            "mainClass": "operator.ClearBit",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "polymorphism",
-            "request": "launch",
-            "mainClass": "OOPS.polymorphism",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "parameterizedC",
-            "request": "launch",
-            "mainClass": "OOPS.parameterizedC",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "SetBit",
-            "request": "launch",
-            "mainClass": "operator.SetBit",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "unary",
-            "request": "launch",
-            "mainClass": "operator.unary",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "unaryex",
-            "request": "launch",
-            "mainClass": "operator.unaryex",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "GetBit",
-            "request": "launch",
-            "mainClass": "operator.GetBit",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "unaryex",
-            "request": "launch",
-            "mainClass": "unaryex",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "unary",
-            "request": "launch",
-            "mainClass": "unary",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "Ifloop",
-            "request": "launch",
-            "mainClass": "functions.Ifloop",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "split",
-            "request": "launch",
-            "mainClass": "arraysAndstrings.split",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "type": "java",
-            "name": "hello",
-            "request": "launch",
-            "mainClass": "hello",
-            "projectName": "Java-DSA_ac9d2f69"
-        },
-        {
-            "name": "Launch Chrome",
-            "request": "launch",
-            "type": "chrome",
-            "url": "http://localhost:",
-            "webRoot": "${workspaceFolder}"
-        }
-    ]
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Concatination",
+      "request": "launch",
+      "mainClass": "Concatination",
+      "projectName": "Java-DSA_5b49cc"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "recursion.Factorial",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "SumNum",
+      "request": "launch",
+      "mainClass": "recursion.SumNum",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "SumN",
+      "request": "launch",
+      "mainClass": "recursion.SumN",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "Number",
+      "request": "launch",
+      "mainClass": "recursion.Number",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "InsertionSort",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "Sorting.BubbleSort",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "ParameterCons",
+      "request": "launch",
+      "mainClass": "OOPS.ParameterCons",
+      "projectName": "Java-DSA_adbf1a36"
+    },
+    {
+      "type": "java",
+      "name": "ParameterCons",
+      "request": "launch",
+      "mainClass": "OOPS.ParameterCons",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "ClearBit",
+      "request": "launch",
+      "mainClass": "operator.ClearBit",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "polymorphism",
+      "request": "launch",
+      "mainClass": "OOPS.polymorphism",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "parameterizedC",
+      "request": "launch",
+      "mainClass": "OOPS.parameterizedC",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "SetBit",
+      "request": "launch",
+      "mainClass": "operator.SetBit",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "unary",
+      "request": "launch",
+      "mainClass": "operator.unary",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "unaryex",
+      "request": "launch",
+      "mainClass": "operator.unaryex",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "GetBit",
+      "request": "launch",
+      "mainClass": "operator.GetBit",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "unaryex",
+      "request": "launch",
+      "mainClass": "unaryex",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "unary",
+      "request": "launch",
+      "mainClass": "unary",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "Ifloop",
+      "request": "launch",
+      "mainClass": "functions.Ifloop",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "split",
+      "request": "launch",
+      "mainClass": "arraysAndstrings.split",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "Java-DSA_ac9d2f69"
+    },
+    {
+      "name": "Launch Chrome",
+      "request": "launch",
+      "type": "chrome",
+      "url": "http://localhost:",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
 }
