@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "swap",
+      "projectName": "Java-DSA_5b49cc"
+    },
+    {
+      "type": "java",
       "name": "three",
       "request": "launch",
       "mainClass": "patterns_question.three",
